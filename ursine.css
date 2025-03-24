@@ -1,5 +1,4 @@
- /* 	grid: auto-flow / 1fr 1fr 1fr;
-  Full Scope */
+ /* Full Scope */
 
 @font-face {
   font-family: 'JetBrainsMono';
@@ -9,27 +8,27 @@
 
 * 
 {
-	font-family: 'JetBrainsMono', monospace;
-	padding: 15px;
-	margin : 15px;
+  font-family: 'JetBrainsMono', monospace;
+  padding: 15px;
+  margin : 15px;
 }
 
 
  /* Page Scope */
 #_1x1_ursine_qry_ZpMc4r_6x770_4x858_2x190_1x805_
 {
-	display: flex;
-	background-color: dimgray;
+  display: flex;
+  background-color: dimgray;
 }
 
  .gaze-of-creation
  {
- 	background-color:white;
- 	color: darkblue;
+  background-color:white;
+  color: darkblue;
  }
 
  .gaze-of-the-nameless-king
  {
- 	background-color:black;
- 	color: darkred;
+  background-color:black;
+  color: darkred;
  }

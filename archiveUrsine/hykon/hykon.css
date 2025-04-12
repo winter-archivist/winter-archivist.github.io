@@ -16,7 +16,7 @@ p {
 }
 
 html, body {
-  background: dimgrey no-repeat;
+  background: black no-repeat;
   background-size: cover;
   display: grid;
 }
@@ -46,7 +46,7 @@ html, body {
 
 .blurred-background {
   z-index: 10;
-  background-color: rgba(65,35,25,0.75);
+  background-color: rgba(32, 32, 36, 0.8);
   border-radius: 5%;
   filter: blur(7px);
 }

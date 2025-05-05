@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
+  url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff/JetBrainsMono-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+}
+
+html {
+  background: black no-repeat;
+  background-size: cover;
+  display: grid;
+}
+
+body {
+  display: grid;
+}
+
+/* Full Page    */
+/* ------------ */
+/* Page Wrapper */
+
+.page-grid{
+  grid-row: 1;
+  grid-column: 1;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#page-background {
+  z-index: -100;
+  grid-row: 1;
+  grid-column: 1;
+  background: rgba(25, 25, 25, 1);
+  background-size: cover;
+  filter: blur(7px);
+  height: 100%;
+}
+
+/* Page Wrapper       */
+/* ------------------ */
+/* Page-Wide Elements */
+
+
+
+/* Page-Wide Elements */
+/* ------------------ */
+/* Page Containers    */
+
+#the-first-ladder{
+  grid-row: 1;
+  grid-column: 1/5;
+}
+
+#a-grand-arcanum{
+  grid-row: 2;
+  grid-column: 1/5;
+}
+
+
+/* Page Containers */
+/* --------------- */
+/* Page ?????????? */
+
+

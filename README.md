@@ -17,18 +17,18 @@ LANDING PAGE
 Rather than using an index.html, I'll be using this for the time being.
 
 Current Focus: 
-* N/A
+* archiveUrsine.a-grand-arcanum
 
 Work In Progress
-* archiveUrsine [WIP]
-  - hykon [CMP]
-    -- v1_0.0.0.0
-  - archiveCKWK [CMP]
-  - ??? [WIP]
+* archiveUrsine
+  - arcanum https://winter-archivist.github.io/archiveUrsine/a-grand-arcanum/a-grand-arcanum.html
+    -- v0_0.0.0.0
 
 Completed:
 * archiveUrsine
   - hykon https://winter-archivist.github.io/archiveUrsine/hykon/hykon.html
+    -- v1_0.0.0.0
+  - baseplate https://winter-archivist.github.io/archiveUrsine/baseplate/baseplate.html
     -- v1_0.0.0.0
   - archiveCKWK: https://winter-archivist.github.io/archiveCKWK/CKWK.html
 
